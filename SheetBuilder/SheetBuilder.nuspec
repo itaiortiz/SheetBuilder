@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Itai Ortiz</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://itaiortiz.visualstudio.com/SheetBuilder</licenseUrl>
+    <projectUrl>https://itaiortiz.visualstudio.com/SheetBuilder</projectUrl>
+    <iconUrl>https://itaiortiz.visualstudio.com/SheetBuilder</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Tool for generate asignation sheets as JW tool</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>hojitas sheets jw</tags>
+  </metadata>
+</package>
